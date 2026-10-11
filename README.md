@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0242-valid-anagram) |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
