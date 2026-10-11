@@ -3,12 +3,15 @@
  * @return {boolean}
  */
 function isValidSudoku(board) {
+    // Check rows
     for (let i = 0; i < 9; i++) {
         const row = board[i].filter(val => val !== ".");
         if (new Set(row).size !== row.length) {
             return false;
         }
     }
+
+    // Check columns
     for (let j = 0; j < 9; j++) {
         const col = [];
 
@@ -22,6 +25,8 @@ function isValidSudoku(board) {
             return false;
         }
     }
+
+    // Check 3 × 3 boxes using slice()
     for (let i = 0; i < 9; i += 3) {
         for (let j = 0; j < 9; j += 3) {
             const box = [];
