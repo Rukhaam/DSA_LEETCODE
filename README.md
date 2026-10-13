@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+| [0493-reverse-pairs](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0493-reverse-pairs) |
 ## Interactive
 |  |
 | ------- |
@@ -87,4 +90,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
