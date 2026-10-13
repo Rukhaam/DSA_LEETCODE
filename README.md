@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -82,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rukhaam/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
